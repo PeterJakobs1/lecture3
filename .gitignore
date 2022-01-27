@@ -1,4 +1,6 @@
 
-# Project exclude paths
-/dist/
+/.idea/
 /node_modules/
+/dist/
+/.parcel-cache/
+/coverage/
